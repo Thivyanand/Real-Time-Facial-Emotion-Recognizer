@@ -13,3 +13,15 @@ python-opencv
 
 
 
+After Downloading:
+
+1.Open cmd 
+
+2.Run cd  "REPLACE_WITH_FILE_PATH"
+
+3.Run  py Emotion.py
+
+4.Press Q to exit
+
+
+
